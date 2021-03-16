@@ -1,0 +1,112 @@
+header{
+  border-style: none;
+  border-width: 1px;
+  padding: 40px;
+}
+#fotoperfil{
+  margin-left: 48%;
+}
+#redes{
+  position: relative;
+  top: 10px;
+}
+nav{
+background-color: gray;
+}
+ul{
+list-style: none;
+width: 100%;
+}
+#menu li>a{
+  width: 100%;
+  margin: 0 auto;
+  background-color: transparent;
+  padding-left:100px;
+  padding-right: 100px;
+  text-decoration: none;
+  margin-left: 150px;
+}
+#menu>li{
+  float: left;
+  text-align:center
+}
+#contenido{
+  padding: 20px;
+  height: 800px;
+  margin-top: 45px;
+}
+#piepag{
+  border-style: none;
+  border-width: 1px;
+  padding: 10px;
+  width: 100%;
+  margin-top:50px ;
+  background-color: black;
+  color: white;
+  height: 220px;
+}
+#Clientes{
+  padding: 40px;
+  width: 100%;
+  margin: 0 auto;
+  margin-bottom:30px;
+  max-width: 200px;
+}
+#Clientes>input{
+  margin-top: 10px;
+}
+#contenidoclientes{
+  padding: 20px;
+  height: 350px;
+  width: 30%;
+  margin-top: 45px;
+  margin:auto;
+  color:white ;
+  background-image:url(https://image.freepik.com/foto-gratis/narguiles-carbones-shisha-cuencos-sobre-fondo-humo-luces-neon-restaurante-espacio-copia_118086-3384.jpg) ;
+  background-color: transparent;
+}
+#registrarse{
+  color: white;
+  padding: 40px;
+}
+#h1sesion{
+  text-align: center;
+  margin-top: 70px;
+}
+#footer1{
+  float: left;
+}
+#footer2{
+  float: right;
+  margin-right: 20px;
+}
+#c1,#c2,#c3,#c4,#c5,#c6,#c7,#c8,#c9,#c10,#c11{
+  box-shadow: 0 0 20px 0 #6e6e6e;
+  margin: 10px;
+  margin-bottom: 100px;
+}
+
+#contenido1{
+  margin-left: 300px;
+  margin-top: 150px;
+  float: left;
+}
+#contenido2{
+  float: right;
+  margin-top: 180px;
+  margin-right: 200px;
+  text-align: center;
+}
+#anuncio>aside{
+  margin-left: 170px;
+}
+#anuncio1{
+  box-shadow: 0 0 20px 0 #6e6e6e;
+  margin-left: 300px;
+  margin-top: 100px;
+}
+#ubicacion{
+  margin-top: 100px;
+  text-align: center;
+}
+
